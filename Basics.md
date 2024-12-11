@@ -65,11 +65,14 @@ Eg : can take any supervised method for classification or regression and modify 
 ## Data-Normalization
 Feature scaling technique to standardize the  independent features/ variables present in the data in a fixed range
 ### Filter method 
-#### Pearson's Correlation
-#### Linear Discriminant Analysis
-#### Analysis of Variance
-#### Chi Square
+ Pearson's Correlation
+ Linear Discriminant Analysis
+ Analysis of Variance
+ Chi Square
 ### wrapper 
+Forward Selection
+Backward Selection
+Embedded Methods
 ### Fall 
 
 
