@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-  ##[Basics methodologies](#Basics.md) 
+  1. [Basics methodologies](#Basics.md) 
 
 ## Stats
 
