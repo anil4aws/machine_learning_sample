@@ -1,6 +1,8 @@
 # machine_learning_sample
 
-##[Basics methodologies](#Basics.md) 
+# Table of Contents
+
+  ##[Basics methodologies](#Basics.md) 
 
 ## Stats
 
