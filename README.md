@@ -1,4 +1,4 @@
-                                <h1>Machine_Learning_Sample</h1>
+<h1>Machine_Learning_Sample</h1>
 
 <h2><a href="https://github.com/anil4aws/machine_learning Notes/blob/main/Basics.md">Basics methodologies Notes</a></h2>
 
