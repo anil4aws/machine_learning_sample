@@ -46,7 +46,7 @@ Based on Bernoulli trials and principles.
   - **Var(X)** = λ  
   - **s.d.(X)** = √λ
 
-![Expected Value](https://github.com/anil4aws/machine_learning_sample/blob/main/images/Expected_Value.png)
+![Expected Value](https://github.com/anil4aws/machine_learning_sample/blob/main/images/Expected_Value.jpg)
 
 ---
 
@@ -93,8 +93,8 @@ where \( a \leq c \leq d \leq b \).
 
 The curve is symmetric about the population mean \( \mu \).
 
-![Normal Distribution](https://github.com/anil4aws/machine_learning_sample/blob/main/images/normal_Distribution.png)
+![Normal Distribution](https://github.com/anil4aws/machine_learning_sample/blob/main/images/normal_Distribution.jpg)
 
 ---
 
-![Normal Standard Distribution](https://github.com/anil4aws/machine_learning_sample/blob/main/images/Normal_Standard_Distribution.png)
+![Normal Standard Distribution](https://github.com/anil4aws/machine_learning_sample/blob/main/images/Normal_Standard_Distribution.jpg)
