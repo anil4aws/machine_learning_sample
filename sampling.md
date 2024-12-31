@@ -1,9 +1,5 @@
 # SAMPLING
 
-### SAMPLING ERROR
-The error in the inductive inference from a sample to a population is known as sampling error
-### NON SAMPLING ERROR
-Any error which are not sampling error , eg biases
 
 ## PROBABILITY SAMPLING METHODS
 ### RANDOM SAMPLING / PROBABILITY SAMPLING
@@ -33,3 +29,9 @@ When some of the individuals volunteer to participate
 Investigator selects units from the population using his knowledge in pop
 ### Snowball sampling
 referral
+
+
+## SAMPLING ERROR
+The error in the inductive inference from a sample to a population is known as sampling error
+## NON SAMPLING ERROR
+Any error which are not sampling error , eg biases
