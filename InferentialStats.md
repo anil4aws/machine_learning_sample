@@ -40,21 +40,21 @@ level of significance at which you can reject Null hypthesis that level is p-val
 
 ## Hypothesis Testing 
 
-[![hypthesistesting](https://github.com/anil4aws/machine_learning_sample/blob/main/hypthesistesting1.jpg)](https://github.com/anil4aws/machine_learning_sample/blob/main/images/hypthesistesting1.jpg)
+[![hypthesistesting](https://github.com/anil4aws/machine_learning_sample/blob/main/images/hypthesistesting1.jpg)
 
 
 
 ### type 1 and type 2 
 
 
-[![alphabeta](https://github.com/anil4aws/machine_learning_sample/blob/main/alphabeta.jpg)](https://github.com/anil4aws/machine_learning_sample/blob/main/images/alphabeta.jpg)
+[![alphabeta](https://github.com/anil4aws/machine_learning_sample/blob/main/images/alphabeta.jpg)
 
 ## Z testing
 
-[![z-test](https://github.com/anil4aws/machine_learning_sample/blob/main/z-test.jpg)](https://github.com/anil4aws/machine_learning_sample/blob/main/images/alphabeta.jpg)
+[![z-test](https://github.com/anil4aws/machine_learning_sample/blob/main/images/alphabeta.jpg)
 
-[![z-test-t-test](https://github.com/anil4aws/machine_learning_sample/blob/main/z-test-t-test.jpg)](https://github.com/anil4aws/machine_learning_sample/blob/main/images/alphabeta.jpg)
+[![z-test-t-test](https://github.com/anil4aws/machine_learning_sample/blob/main/images/alphabeta.jpg)
 
 
 ## Alternate Hyppothesis 
-[![Alternative_Hypothesis](https://github.com/anil4aws/machine_learning_sample/blob/main/alternative_hypo.jpg)](https://github.com/anil4aws/machine_learning_sample/blob/main/images/alphabeta.jpg)
+[![Alternative_Hypothesis](https://github.com/anil4aws/machine_learning_sample/blob/main/images/alphabeta.jpg)
