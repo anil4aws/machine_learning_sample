@@ -48,4 +48,4 @@ When two examiners evaluate they differ but relative performances is agreed .
 Linear regression 
 
 ## coefficient of determination 
-
+value = explained variation / total variation 
