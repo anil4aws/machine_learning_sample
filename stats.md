@@ -5,6 +5,8 @@
 Central tendency : A single numerical value around which data tends to cluster , used to give summary measure 
 factory output will giv
 
+[![measureofcentraltendency](https://github.com/anil4aws/machine_learning_sample/blob/main/images/measureofcentraltendency.jpg)
+
 ### Mathematical and positional averages 
 -------------------------------------
 
@@ -20,12 +22,22 @@ Common measures of central tendency
 
 #### Median : central value ,giving q1(25%) and q2 (median ) and q3(75%)
 
+[![median](https://github.com/anil4aws/machine_learning_sample/blob/main/images/median.jpg)
+
+#### Quartile 
+[![iqr](https://github.com/anil4aws/machine_learning_sample/blob/main/images/iqr.jpg)
+
+
 #### Decile - 9 values dividing data into 10 parts
 
 #### Mode : Is most frequent occuring obersrvation 
 
+[![mode](https://github.com/anil4aws/machine_learning_sample/blob/main/images/mode.jpg)
+
 #### Empirical relationship of mean, median and mode :
 (Mean - Mode) = 3 *(Mean - Median)
+
+
 
 #### Measures of Diseprsion : Is and index that quantifies degree to which data is dispersed or spread
 
@@ -57,6 +69,8 @@ Ex :
 
 4. Standard deviation : measure of spread of the data 
 Std deviation = √ (average of squares of deviation)
+
+[![sd](https://github.com/anil4aws/machine_learning_sample/blob/main/images/sd.jpg)
 
 5. variance : square of standard deviation  : how far a set of data is dispersed from mean or average value 
 The symbol for variance is σ2, which is read as "sigma squared
