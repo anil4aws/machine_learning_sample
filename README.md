@@ -10,5 +10,9 @@
 
 <h2><a href="https://github.com/anil4aws/machine_learning_sample/blob/main/sampling.md">Sampling</a></h2> 
 
+<h2><a href="https://github.com/anil4aws/machine_learning_sample/blob/main/InferentialStats.md">Inferential Stats</a></h2> 
+
 <h2><a href="https://github.com/anil4aws/machine_learning_sample/blob/main/RelationBetweenVariables.md">Corelation and Covariance</a></h2> 
+
+<h2><a href="https://github.com/anil4aws/machine_learning_sample/blob/main/linear_algebra.md">Linear Algebra</a></h2> 
 

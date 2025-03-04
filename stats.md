@@ -114,6 +114,8 @@ co-efficient of variation can also be used as measure of consistency : if scores
 In normal distribution - skewness is 0 
 for symmetrical mean , median and mode is identical 
 If positively skewed - long tail towards right 
+[![measuresofshape](https://github.com/anil4aws/machine_learning_sample/blob/main/images/measuresofshape.jpg)
+[![kurtosis](https://github.com/anil4aws/machine_learning_sample/blob/main/images/kurtosis.jpg)
 
 
 # measure of central tendency together with measure of dispersion and measure of skewness gives good summary of data
