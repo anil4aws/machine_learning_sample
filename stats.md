@@ -5,7 +5,7 @@
 Central tendency : A single numerical value around which data tends to cluster , used to give summary measure 
 factory output will giv
 
-[![measureofcentraltendency](https://github.com/anil4aws/machine_learning_sample/blob/main/images/measureofcentraltendency.jpg)
+![measureofcentraltendency](https://github.com/anil4aws/machine_learning_sample/blob/main/images/measureofcentraltendency.jpg)
 
 ### Mathematical and positional averages 
 -------------------------------------
@@ -22,10 +22,10 @@ Common measures of central tendency
 
 #### Median : central value ,giving q1(25%) and q2 (median ) and q3(75%)
 
-[![median](https://github.com/anil4aws/machine_learning_sample/blob/main/images/median.jpg)
+![median](https://github.com/anil4aws/machine_learning_sample/blob/main/images/median.jpg)
 
 #### Quartile 
-[![iqr](https://github.com/anil4aws/machine_learning_sample/blob/main/images/iqr.jpg)
+![iqr](https://github.com/anil4aws/machine_learning_sample/blob/main/images/iqr.jpg)
 
 
 #### Decile - 9 values dividing data into 10 parts
@@ -67,6 +67,8 @@ Ex :
 
      player 2 : 10 , 15 , 15 ,  20	 = mean deviation = 2.5
 
+[variance calculation](https://github.com/anil4aws/machine_learning_sample/blob/main/images/variance_Calc.jpg)
+
 4. Standard deviation : measure of spread of the data 
 Std deviation = √ (average of squares of deviation)
 
@@ -78,12 +80,17 @@ The symbol for variance is σ2, which is read as "sigma squared
 σ2 =  [ (i=1-N)Σ(xi-μ)^2 ] / 2
 
 σ2 - population variance 
+
 Σ  - sum total 
+
 N - Number of obersvations 
+
 xi - ith obeservation in the population 
+
 μ - population mean 
 
 Ex : player 1 : 5  , 15 , 15 ,  25   = mean deviation = 5    = variance  = 50   = Standard deviation = 7.07
+
      player 2 : 10 , 15 , 15 ,  20	 = mean deviation = 2.5  = variance  = 12.5 = Standard deviation = 3.53
 
 Like mean deviation standard deviation magnifies larger deviation  
@@ -93,18 +100,21 @@ Like mean deviation standard deviation magnifies larger deviation
 
 Number of deviations above or below arithmetic mean 
 Data Set = [X1 , X2 .. Xi .. Xn]
+
 Zj = (Xj-x̄)/s
+
 s- standard deviation 
 
 #### Empirical Rule
 
-in bell curve which are symmetric , empirical rule says about  65% scores are between -1 to 1 
+In bell curve which are symmetric , empirical rule says about  65% scores are between -1 to 1 
 about  95% scores are between -2 to 2
 99.7 between -3 and 3 . beyond that is outlier 
 
 ## co-efficient of variation 
-To compare two data set for Dispersion in consumption = Standard deviation/Arithmetic Mean 
-co-efficient of variation can also be used as measure of consistency : if scores are two individuals are same then individual with lower covariance is consistent 
+To compare two data set for Dispersion in consumption = (Standard deviation)/(Arithmetic Mean ).
+
+Co-efficient of variation can also be used as measure of consistency : if scores are two individuals are same then individual with lower covariance is consistent 
 
 
 
