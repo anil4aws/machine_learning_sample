@@ -8,8 +8,6 @@ Placing a button on top , or bottom
 
 if both perform well then it is null hypothesis 
 
-[![InferentialStats](https://github.com/anil4aws/machine_learning_sample/blob/main/images/InferentialStats.jpg)
-
 
 ----------
 

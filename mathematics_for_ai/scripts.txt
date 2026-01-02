@@ -1,0 +1,9 @@
+
+https://scikit-learn.org/stable/install.html
+
+python -m venv sklearn-env
+sklearn-env\Scripts\activate  # activate
+pip install -U scikit-learn
+pip install numpy
+
+pip install matplotlib
