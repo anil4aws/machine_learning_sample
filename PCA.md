@@ -5,6 +5,9 @@ PCA (Principal Component Analysis) are common steps for dimensionality reduction
  PCA is affected by scale, so standardizing ensures each feature contributes equally
  PCA is sensitive to the magnitude of features. Standardization rescales features to have mean = 0 and standard deviation = 1
 `scaler = StandardScaler()
+data_std = scaler.fit_transform(data)`
+
+`scaler = StandardScaler()
 data_std = scaler.fit_transform(data)
 `
 
