@@ -22,7 +22,7 @@ print("Explained Variance Ratio:", pca.explained_variance_ratio_)
 print("Principal Axes (Eigenvectors):", pca.components_)
 
 features = numeric_cols # data_std.columns
-components = [f'PC{i+1}' for i in range(principal_components.shape[0])]
+# components = [f'PC{i+1}' for i in range(principal_components.shape[0])]
 data_df = pd.DataFrame(pca.components_, columns=numeric_cols, index=[f'PC{i+1}' for i in range(3)])
 
 
@@ -32,4 +32,30 @@ import matplotlib.pyplot as plt
 plt.figure(figsize=(12, 6))
 sns.heatmap(data_df, annot=True, cmap='coolwarm', center=0)
 plt.title("PCA Component Loadings Heatmap")
+plt.show()
+
+
+
+############### solution  given in the course
+# Compute the first 3 principal components
+from sklearn.datasets import load_iris
+
+# Load the Iris dataset
+iris = load_iris()
+X = iris.data
+y = iris.target
+
+pca = PCA(n_components=3)
+X_pca = pca.fit_transform(X)
+
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+fig = plt.figure(figsize=(10, 7))
+ax = fig.add_subplot(111, projection='3d')
+
+scatter = ax.scatter(X_pca[:, 0], X_pca[:, 1], X_pca[:, 2], c=y, cmap='viridis')
+legend1 = ax.legend(*scatter.legend_elements(), title="Classes")
+ax.add_artist(legend1)
+ax.set_title('True Clusters of Iris Dataset')
 plt.show()
